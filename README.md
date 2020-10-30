@@ -1,7 +1,8 @@
 
 
 <h1 align="center">
-Efeitos de preenchimento de icone| Botões de mídia social <br>
+Efeitos de preenchimento de icone <br>
+| Botões de mídia social| <br>
 </h1>
 
 <h2 align="center">
