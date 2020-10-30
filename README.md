@@ -1,6 +1,6 @@
 # Efeitos de preenchimento de icone
 
-<img src="github/efeito.gif" alt="preenchimento" width="120">
+<img src="github/efeito.gif" alt="preenchimento" width="320">
 
 :rocket:**Tecnologias**
 
