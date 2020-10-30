@@ -4,10 +4,12 @@
 
 <h2 align="center">
 Efeitos de preenchimento de icone| Botões de mídia social <br>
+<img src="github/html.png" alt="#" width="150">
+<img src="github/css.png" alt="#" width="150">
 
 <img src="github/efeito.gif" alt="preenchimento" width="750">
 </h2>
-<img src="github/demo.png" alt="https://luisrobertoantunes.github.io/Efeitos-de-preenchimento-de-icone/" width="200">
+
 ## :rocket:**Tecnologias**
 Este projeto foi desenvolvido com as seguintes tecnologias:
 *  HTML
