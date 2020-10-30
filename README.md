@@ -15,4 +15,4 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 *  CSS
 
 ## :pencil:**Licença**
-Este projeto está sob a licença do MIT. Consulte a the [LICENSE](https://github.com/LuisRobertoAntunes/Efeitos-de-preenchimento-de-icone/blob/LuisRobertoAntunes-Redme.md/LICENSE) para obter mais informações.
+Este projeto está sob a licença do MIT. Consulte a the [LICENSE](https://github.com/LuisRobertoAntunes/Efeitos-de-preenchimento-de-icone/blob/main/LICENSE) para obter mais informações.
