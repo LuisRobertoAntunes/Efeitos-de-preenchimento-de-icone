@@ -1,9 +1,9 @@
-<h1 align="center">
+<h1="center">
 # Design + Código
 Efeitos de preenchimento de icone| Botões de mídia social
 
 <img src="github/efeito.gif" alt="preenchimento" width="750">
-</h1>
+</h1=>
 
 ## :rocket:**Tecnologias**
 Este projeto foi desenvolvido com as seguintes tecnologias:
