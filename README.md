@@ -1,5 +1,5 @@
 <h1 align="center">
-# Design + Código <br>
+ Design + Código <br>
 Efeitos de preenchimento de icone| Botões de mídia social
 
 <img src="github/efeito.gif" alt="preenchimento" width="750">
